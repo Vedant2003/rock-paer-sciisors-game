@@ -29,7 +29,6 @@ n1="rock"
 n2="paper"
 n3="scissors"
 name=[n1,n2,n3]
-#Write your code below this line 👇
 import random
 comp=random.randint(0,2)
 user=int(input("please enter the number betwwen 0-2 for playing this  0 for rock,1 for paper,2 for siccor\n"))
